@@ -123,7 +123,7 @@ document.getElementById("close-dialog").addEventListener("click", () => {
 });
 
 document.getElementById("redirect-btn").addEventListener("click", () => {
-  window.open("https://elite12345ywywywy.github.io/Dmwin/", "_blank");
+  window.open("https://elite12345ywywywy.github.io/Ok-win-register/", "_blank");
 });
 
 document.getElementById("float-btn-1").addEventListener("click", () => {
@@ -131,10 +131,10 @@ document.getElementById("float-btn-1").addEventListener("click", () => {
 });
 
 document.getElementById("float-btn-2").addEventListener("click", () => {
-  window.open("https://elite12345ywywywy.github.io/Dmwin/", "_blank");
+  window.open("https://elite12345ywywywy.github.io/Ok-win-register/", "_blank");
 });
 
 document.getElementById("float-btn-3").addEventListener("click", () => {
-  window.open("https://elite12345ywywywy.github.io/Dmwin/", "_blank");
+  window.open("https://elite12345ywywywy.github.io/Ok-win-register/", "_blank");
 });
 
